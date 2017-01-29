@@ -14,3 +14,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT10 More Landscaping Tools
 * BT11 Tank Control System
 * BT12 Actors from Multiple Meshes
+* BT13 Configuring a Tank
