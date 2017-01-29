@@ -5,3 +5,5 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT01 Intro, Notes & Section 4 Assets
 * BT02 Game Design Document (GDD)
 * BT03 Setting Up a "GitHub Repo"
+* BT04 Creating & Deleting Landscapes
+
