@@ -41,3 +41,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT37 Using Forward Declarations
 * BT38 BlueprintSpawnableComponent()
 * BT39 Review Our Execution Flow
+* BT40 How to Report Bugs
