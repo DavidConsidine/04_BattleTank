@@ -39,3 +39,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT35 Using FRotators in Unreal
 * BT36 The C++ Compilation Process
 * BT37 Using Forward Declarations
+* BT38 BlueprintSpawnableComponent()
