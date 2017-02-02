@@ -48,4 +48,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT44 Setting Up Projectiles
 * BT45 Upgrading to Unreal 4.12
 * BT46 Working Round Awkward Bugs
-
+* BT47 Using SpawnActor<>() to Spawn
