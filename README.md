@@ -59,3 +59,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT55 Fly-by-Wire Control System
 * BT56 Using BlueprintReadOnly
 * BT57 A Better Component Architecture
+* BT58 Completing Manual Tank Movement
