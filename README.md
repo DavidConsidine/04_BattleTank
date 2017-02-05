@@ -61,3 +61,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT57 A Better Component Architecture
 * BT58 Completing Manual Tank Movement
 * BT59 Introducing AI Pathfinding
+* BT60 Dissecting RequestDirectMove()
