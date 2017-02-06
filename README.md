@@ -67,3 +67,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT63 Finalising Your Class Code
 * BT64 How to Use Blueprint Variables
 * BT65 Using Enum(erations) in UE4
+* BT66 Refactoring our Aiming Component
