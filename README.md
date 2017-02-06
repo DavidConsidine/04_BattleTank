@@ -65,3 +65,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT61 DotProduct() Vector Operator
 * BT62 CrossProduct() Vector Operator
 * BT63 Finalising Your Class Code
+* BT64 How to Use Blueprint Variables
