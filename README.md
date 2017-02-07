@@ -82,3 +82,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT78 Are Two Floats Equal?
 * BT79 Programmatic Sideways Friction
 * BT80 OnComponentHit Event in 4.12
+* BT81 Avoiding Boolean Flags
