@@ -25,23 +25,18 @@ void UTankAimingComponent::BeginPlay()
 
 void UTankAimingComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction * ThisTickFunction)
 {
-	UE_LOG(LogTemp, Warning, TEXT("entering TickComponent"));
 	if ((FPlatformTime::Seconds() - LastFireTime) < ReloadTimeInSeconds)
 	{
 		FiringStatus = EFiringStatus::Reloading;
-		UE_LOG(LogTemp, Warning, TEXT("Reloading"));
 	}
 	else if (IsBarrelMoving())
 	{
 		FiringStatus = EFiringStatus::Aiming;
-		UE_LOG(LogTemp, Warning, TEXT("Aiming"));
 	}
 	else
 	{
 		FiringStatus = EFiringStatus::Locked;
-		UE_LOG(LogTemp, Warning, TEXT("Locked"));
 	}
-	// TODO handle aiming and locked states
 }
 
 void UTankAimingComponent::Initialise(UTankBarrel * BarrelToSet, UTankTurret * TurretToSet)
