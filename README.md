@@ -79,3 +79,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT75 Aiming Without the Tank
 * BT76 Finishing our Refactoring
 * BT77 Adding TickComponent() Back
+* BT78 Are Two Floats Equal?
