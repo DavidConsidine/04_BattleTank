@@ -74,3 +74,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT70 BlueprintImplementableEvent
 * BT71 Using the ensure Assertion
 * BT72 Dependency Mapping
+* BT73 Talking Head - Real World Skills
