@@ -21,14 +21,13 @@ void ATankAIController::Tick(float DeltaSeconds)
 		return;
 	}
 	// Move Towards the player
-	MoveToActor(PlayerTank, AcceptanceRadius); // TODO 
+	MoveToActor(PlayerTank, AcceptanceRadius);
 
 	// Aim towards the player
 	auto AimingComponent = GetPawn()->FindComponentByClass<UTankAimingComponent>();
 	AimingComponent->AimAt(PlayerTank->GetActorLocation());
 
-	// TODO Fix firing
-	//ControlledTank->Fire(); // TODO limit fire rate
+	AimingComponent->Fire(); // TODO limit fire rate
 		
 }
 
